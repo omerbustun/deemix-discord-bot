@@ -6,5 +6,5 @@ Discord aracılığıyla Jellyfin, Plex veya Emby sunucularına Deemix üzerinde
 
 - Deemix kütüphanesi eklenecek
 - Kütüphane komutlarından şarkı arama ve indirme yapılacak.
-- Bulgular Discord botuna dönüştürülecek.
+- Script Discord botuna dönüştürülecek.
 - Docker konteynerizasyonu yapılacak ve hazır imaja çevirilecek.
