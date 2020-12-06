@@ -1,0 +1,38 @@
+__pycache__
+*/__pycache__
+
+.DS_Store
+node_modules
+
+# pyinstaller build dirs
+/dist
+/build
+
+# local env files
+/env/
+/venv/
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Development stuff
+/config.py
+deemix
+deezer
+webview
+config
+commit.txt
+version.txt

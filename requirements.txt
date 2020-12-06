@@ -1,0 +1,3 @@
+-r server-requirements.txt
+pyqt5
+pyqtwebengine
