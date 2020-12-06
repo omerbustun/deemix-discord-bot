@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import deemix
 
-bot = commands.Bot(command_prefix='$')
+bot = commands.Bot(command_prefix='!')
 
 @bot.event
 async def on_ready():	
@@ -18,4 +18,4 @@ async def test(ctx, arg):
     pass
 
 
-bot.run("NzgyNzAzMDkwMjQzMDc2MTE3.X8QDDg.EHXAQz085ZlF_7iLGU6LLLlOv_Y")
+bot.run("Token")
