@@ -1,8 +1,8 @@
 import discord
 from discord.ext import commands
-import deemix
 
 bot = commands.Bot(command_prefix='!')
+
 
 @bot.event
 async def on_ready():	
