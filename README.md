@@ -1,10 +1,10 @@
 # DeemixDiscordBot
 
-Discord aracılığıyla Jellyfin, Plex veya Emby sunucularına Deemix üzerinden müzik indirme botu.
+Discord aracılığıyla Jellyfin, Plex veya Emby sunucularına Deemix kütüphanesi aracılığıyla müzik indirme botu.
 
 ## Yapılacaklar Listesi
 
-- Deemix kütüphanesi eklenecek
-- Kütüphane komutlarından şarkı arama ve indirme yapılacak.
+- Deemix kütüphanesi eklenecek.
+- Kütüphane komutlarından şarkı arama ve indirme işlemleri yapılacak.
 - Script Discord botuna dönüştürülecek.
 - Docker konteynerizasyonu yapılacak ve hazır imaja çevirilecek.
